@@ -1,1 +1,1 @@
-Hello world
+This repository use for testing functionality Git and GitHub 
