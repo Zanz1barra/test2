@@ -1,1 +1,1 @@
-This repository use for testing functionality Git and GitHub 
+This repository usе for testing functionality Git and GitHub 
